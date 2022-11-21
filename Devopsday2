@@ -1,0 +1,23 @@
+in this session we are dealing with github 
+
+what are the commands that we are using in git.
+
+git init
+
+
+git clone and file path
+
+git status
+
+
+git add filename
+
+
+git commit -m "message"
+
+
+
+git status
+
+
+git push
